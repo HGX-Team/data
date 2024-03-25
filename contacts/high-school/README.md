@@ -1,23 +1,19 @@
-# Workplace
+# High school
 
-This data set contains the temporal network of contacts between individuals measured in an office building in France, from June 24 to July 3, 2013.
+These data sets correspond to the contacts and friendship relations between students in a high school in Marseilles, France, in December 2013.
 
 When this data is used in published research or for visualization purposes, please cite the following papers:
 
 ```
-@article{genois2015data,
-author = {GÉNOIS,MATHIEU and VESTERGAARD,CHRISTIAN L. and FOURNET,JULIE and PANISSON,ANDRÉ and BONMARIN,ISABELLE and BARRAT,ALAIN},
-title = {Data on face-to-face contacts in an office building suggest a low-cost vaccination strategy based on community linkers},
-journal = {Network Science},
-volume = {3},
-issue = {03},
-month = {9},
-year = {2015},
-issn = {2050-1250},
-pages = {326--347},
-numpages = {22},
-doi = {10.1017/nws.2015.10},
-URL = {http://journals.cambridge.org/article_S2050124215000107},
+@article{mastrandrea2015contact,
+  title={Contact patterns in a high school: a comparison between data collected using wearable sensors, contact diaries and friendship surveys},
+  author={Mastrandrea, Rossana and Fournet, Julie and Barrat, Alain},
+  journal={PloS one},
+  volume={10},
+  number={9},
+  pages={e0136497},
+  year={2015},
+  publisher={Public Library of Science San Francisco, CA USA}
 }
 
 @article{lotito2023hypergraphx,
