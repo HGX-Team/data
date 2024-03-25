@@ -1,4 +1,4 @@
-# High school
+# Primary school
 
 Data on face-to-face interactions were collected on Thursday, October 1st and Friday, October 2nd 2009. We recorded 77,602 contact events between 242 individuals (232 children and 10 teachers). In this setting, each child has on average 323 contacts per day with 47 other children, leading to an average daily interaction time of 176 minutes. Most contacts are brief, but long contacts are also observed. Contacts occur mostly within each class, and each child spends on average three times more time in contact with classmates than with children of other classes.
 
