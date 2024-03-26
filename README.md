@@ -32,4 +32,12 @@ Face-to-face interactions during SFHH conference in Nice, France (June 4-5, 2009
 * TL;DR: [Human face-to-face interactions][Temporal] 
 * [Details & Download](https://github.com/HGX-Team/data/tree/main/contacts/conference-sfhh)
 
-## Co-authorship
+## E-mails
+
+#### Enron
+
+#### EU
+
+## Collaborations
+
+
