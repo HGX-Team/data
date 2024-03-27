@@ -1,6 +1,6 @@
-# HGX data
-
 <img src="logo/logo.png" width="500" title="HGX logo">
+
+# HGX data
 
 ## Contacts
 
