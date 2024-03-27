@@ -1,6 +1,11 @@
 <img src="logo/logo.png" width="500" title="HGX logo">
 
 # HGX data
+Collection of datasets associated with the library [Hypergraphx](https://github.com/HGX-Team/hypergraphx) for higher-order network analysis in Python. 
+
+We collected several hypergraph datasets from different sources. The source of the data is acknowledged on the respective presentation page and we provide the BibTeX for a correct reference in your articles (please write us or provide a correction when needed). 
+
+Most of the time, source data is naturally a hypergraph. However, sometimes hypergraphs need to be inferred from data stored as a collection of pairwise interactions. This operation is debatable and not trivial, therefore in this cases we also provide original pairwise data.   
 
 ## Contacts
 
@@ -15,7 +20,7 @@ Contacts between the children and teachers in a primary school
 * [Details & Download](https://github.com/HGX-Team/data/tree/main/contacts/primary-school)
 
 #### Hospital
-Contacts between patients and health-care workers in a hospital ward in Lyon, France, from Monday, December 6, 2010 at 1:00 pm to Friday, December 10, 2010 at 2:00 pm.
+Contacts between patients and healthcare workers in a hospital ward in Lyon, France, from Monday, December 6, 2010 at 1:00 pm to Friday, December 10, 2010 at 2:00 pm.
 * TL;DR: [Human face-to-face interactions][Temporal][Labelled nodes] 
 * [Details & Download](https://github.com/HGX-Team/data/tree/main/contacts/hospital)
 
