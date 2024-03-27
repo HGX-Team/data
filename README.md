@@ -3,11 +3,13 @@
 # HGX data
 Collection of datasets associated with the library [Hypergraphx](https://github.com/HGX-Team/hypergraphx) for higher-order network analysis in Python. 
 
+## Sources
+
 We collected several hypergraph datasets from different sources. The source of the data is acknowledged on the respective presentation page and we provide the BibTeX for a correct reference in your articles (please write us or provide a correction when needed). 
 
 Most of the time, source data is naturally a hypergraph. However, sometimes hypergraphs need to be inferred from data stored as a collection of pairwise interactions. This operation is debatable and not trivial, therefore in this cases we also provide original pairwise data.   
 
-## Contacts
+## Face-to-face interactions data
 
 #### High school
 Contacts and friendship relations between students in a high school in Marseilles, France, in December 2013.
