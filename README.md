@@ -49,28 +49,26 @@ Face-to-face interactions during SFHH conference in Nice, France (June 4-5, 2009
 
 ## Collaborations
 
-### Dm
+#### Dm
 
-### Software
+#### Software
 
 ## Bitcoin
 
-### 2014
+#### 2014
 
-### 2015
+#### 2015
 
-### 2016
+#### 2016
 
 ## Question & Answer
 
-### Math
+#### Math
 
-### Server
+#### Server
 
 ## Metabolic
 
-### iaf1260b
+#### iaf1260b
 
-### iJO1366
-
-
+#### iJO1366
