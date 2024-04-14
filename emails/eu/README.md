@@ -1,4 +1,4 @@
-# Bitcoin_2014 HYPERTEXT
+# Email_eu HYPERTEXT
 
 We use two email hypergraphs, email-enron and email-eu. The Email-enron
 dataset is provided by Chodrow and Mellor (2020). We consider each email as a

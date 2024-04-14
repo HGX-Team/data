@@ -1,4 +1,4 @@
-# Bitcoin_2014 HYPERTEXT
+# Citation_software HYPERTEXT
 
 We use two citation hypergraphs, citation-data mining and citation-software,
 which we create from pairwise citation networks, as suggested by Yadati et  al. Nodes are the authors of publications. Assume that a paper A, which is coauthored by {v1, v2, v3}, cited another paper B, which is co-authored by {v4, v5}.
