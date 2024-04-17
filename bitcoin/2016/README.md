@@ -1,4 +1,4 @@
-# Bitcoin_2015 HYPERTEXT
+# Bitcoin_2015 
 
 We use three bitcoin transaction hypergraphs, bitcoin-2014, bitcoin-2015, and bitcoin-2016. The original datasets are provided by Wu et al. (2021), and they contain frst 1,500,000 transactions in 11/2014, 06/2015, and 01/2016, respectively. 
 We model each account as a node, and we model each transaction as a hyperarc. As

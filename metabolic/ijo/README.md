@@ -1,4 +1,4 @@
-# Metabolic_ijo1366 HYPERTEXT
+# Metabolic_ijo1366 
 
 We use two metabolic hypergraphs, iAF1260b and iJO1366, which are provided
 by Yadati et al. (2020). They are provided in the form of directed hypergraphs, and

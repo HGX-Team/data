@@ -1,6 +1,6 @@
 
 
-# Qna_math HYPERTEXT
+# Qna_math
 
 We use two question answering hypergraphs, qna-math and qna-server. We create
 directed hypergraphs from the log data of a question answering site, stack exchange,

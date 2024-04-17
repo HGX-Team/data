@@ -1,4 +1,4 @@
-# Email_eu HYPERTEXT
+# Email_eu 
 
 We use two email hypergraphs, email-enron and email-eu. The Email-enron
 dataset is provided by Chodrow and Mellor (2020). We consider each email as a
