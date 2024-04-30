@@ -45,59 +45,59 @@ Face-to-face interactions during SFHH conference in Nice, France (June 4-5, 2009
 
 #### Enron
 Dataset is provided by Chodrow and Mellor (2020).
-* TL;DR: [Directed][Temporal] 
-* [Details & Download](https://github.com/avendramini/data/tree/main/emails/enron)
+* TL;DR: [E-mails][Directed] 
+* [Details & Download](https://github.com/HGX-Team/data/tree/main/emails/enron)
 
 #### EU
 Dataset is from SNAP (Leskovec and Krevl 2014).
-* TL;DR: [Directed][Temporal] 
-* [Details & Download](https://github.com/avendramini/data/tree/main/emails/eu)
+* TL;DR: [E-mails][Directed]
+* [Details & Download](https://github.com/HGX-Team/data/tree/main/emails/eu)
 
 ## Citations
 
 #### Dm
 Subsets of a DBLP citation dataset (Sinha et al. 2015). The subsets consist of papers published in the venues of data mining.
-* TL;DR: [Directed][Temporal] 
-* [Details & Download](https://github.com/avendramini/data/tree/main/citations/dm)
+* TL;DR: [Data mining papers][Directed] 
+* [Details & Download](https://github.com/HGX-Team/data/tree/main/citations/dm)
 
 #### Software
 Subsets of a DBLP citation dataset (Sinha et al. 2015). The subsets consist of papers published in the venues of software engineering.
-* TL;DR: [Directed][Temporal] 
-* [Details & Download](https://github.com/avendramini/data/tree/main/citations/software)
+* TL;DR: [Software papers][Directed] 
+* [Details & Download](https://github.com/HGX-Team/data/tree/main/citations/software)
 
 ## Bitcoin
 
 #### 2014
 The original dataset are provided by Wu et al. (2021), and it contains frst 1,500,000 transactions in 11/2014.
-* TL;DR: [Directed][Temporal] 
-* [Details & Download](https://github.com/avendramini/data/tree/main/bitcoin/2014)
+* TL;DR: [Bitcoin transactions][Directed]
+* [Details & Download](https://github.com/HGX-Team/data/tree/main/bitcoin/2014)
 #### 2015
 The original dataset are provided by Wu et al. (2021), and it contains frst 1,500,000 transactions in 06/2015. 
-* TL;DR: [Directed][Temporal] 
-* [Details & Download](https://github.com/avendramini/data/tree/main/bitcoin/2015)
+* TL;DR: [Bitcoin transactions][Directed] 
+* [Details & Download](https://github.com/HGX-Team/data/tree/main/bitcoin/2015)
 #### 2016
 The original dataset are provided by Wu et al. (2021), and it contains frst 1,500,000 transactions in 01/2016. 
-* TL;DR: [Directed][Temporal] 
-* [Details & Download](https://github.com/avendramini/data/tree/main/bitcoin/2016)
+* TL;DR: [Bitcoin transactions][Directed] 
+* [Details & Download](https://github.com/HGX-Team/data/tree/main/bitcoin/2016)
 ## Question & Answer
 
 #### Math
 Log data of a question answering site, stack exchange,
 provided at Archive (2022). We choose math-overfow, which covers mathematical questions.
-* TL;DR: [Directed][Temporal] 
-* [Details & Download](https://github.com/avendramini/data/tree/main/qna/math)
+* TL;DR: [Q&A][Directed]
+* [Details & Download](https://github.com/HGX-Team/data/tree/main/qna/math)
 #### Server
 Log data of a question answering site, stack exchange,
 provided at Archive (2022). We choose server-fault, which treats server related issues.
-* TL;DR: [Directed][Temporal] 
-* [Details & Download](https://github.com/avendramini/data/tree/main/qna/server)
+* TL;DR: [Q&A][Directed] 
+* [Details & Download](https://github.com/HGX-Team/data/tree/main/qna/server)
 ## Metabolic
 
 #### iaf1260b
 Dataset iAF1260b provided by Yadati et al. (2020).
-* TL;DR: [Directed][Temporal] 
-* [Details & Download](https://github.com/avendramini/data/tree/main/metabolic/iaf)
+* TL;DR: [Metabolic][Directed] 
+* [Details & Download](https://github.com/HGX-Team/data/tree/main/metabolic/iaf)
 #### iJO1366
 Dataset iJO1366 provided by Yadati et al. (2020).
-* TL;DR: [Directed][Temporal] 
-* [Details & Download](https://github.com/avendramini/data/tree/main/metabolic/ijo)
+* TL;DR: [Metabolic][Directed] 
+* [Details & Download](https://github.com/HGX-Team/data/tree/main/metabolic/ijo)

@@ -6,11 +6,8 @@ they do not require any pre-processing. We remove one hyperarc from each dataset
 since their head set or tail set is abnormally large. Specifcally, the size of their head
 sets is greater than 20, while the second largest one is 8. Each node corresponds to
 a gene, and each hyperarc indicates a metabolic reaction among them. Specifcally,
-a hyperarc ei
- indicates that a reaction among the genes in the tail set Ti
- results in the
-genes in the head set Hi
-.
+a hyperarc e_i indicates that a reaction among the genes in the tail set T_i results in the
+genes in the head set H_i.
 * [Download]()
 
 When this data is used in published research or for visualization purposes, please cite the following papers:

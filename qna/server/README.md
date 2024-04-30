@@ -11,8 +11,7 @@ one or more answerers are involved with each post. We ignore all posts without a
 answerer. We treat each user as a node, and we treat each post as a hyperarc. For
 each hyperarc, the questioner of the corresponding post composes the head set, and
 the answerer(s) compose the tail set. Note that every hyperarc in these datasets has a
-unit head set, i.e., 1 |Hi
-| = 1, ∀i = {1, …, |E|}.
+unit head set.
 
 Data is available here: https://archive.org/details/stackexchange
 * [Download]()

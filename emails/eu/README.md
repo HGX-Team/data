@@ -1,7 +1,6 @@
 # Email_eu 
 
-We use two email hypergraphs, email-enron and email-eu. The Email-enron
-dataset is provided by Chodrow and Mellor (2020). We consider each email as a
+We use two email hypergraphs, email-enron and email-eu. We consider each email as a
 single hyperarc. Specifcally, the head set is composed of the receiver(s) and cc-ed
 user(s), and the tail set is composed of the sender. The Email-eu dataset is from
 SNAP (Leskovec and Krevl 2014). The original dataset is a dynamic graph where

@@ -3,8 +3,7 @@
 We use two email hypergraphs, email-enron and email-eu. The Email-enron
 dataset is provided by Chodrow and Mellor (2020). We consider each email as a
 single hyperarc. Specifcally, the head set is composed of the receiver(s) and cc-ed
-user(s), and the tail set is composed of the sender. The Email-eu dataset is from
-SNAP (Leskovec and Krevl 2014). The original dataset is a dynamic graph where
+user(s), and the tail set is composed of the sender. The original dataset is a dynamic graph where
 each temporal edge from a node u to a node v at time t indicates that u sent an email
 to v at time t. The edges with the same source node and timestamp are replaced by
 a hyperarc, where the tail set consists only of the source node and the head set is the
